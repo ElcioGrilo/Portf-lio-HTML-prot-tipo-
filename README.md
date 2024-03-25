@@ -1,1 +1,1 @@
-<h1>Portifólio feito em um curso de programação</h1>
+<h1>Portifólio feito em um curso de programação</h1> <img src ![GATO sem fundo](https://github.com/ElcioGrilo/Portf-lio-HTML-prot-tipo-/assets/159853068/ebbc6825-cb0d-4da2-8950-812824966fd5) width="30px"; height= "50px";>
